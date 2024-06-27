@@ -13,3 +13,15 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+# String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
