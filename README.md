@@ -66,5 +66,10 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
