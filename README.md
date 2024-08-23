@@ -32,6 +32,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -76,9 +78,11 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
