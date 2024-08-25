@@ -62,6 +62,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0735-asteroid-collision) |
@@ -93,6 +95,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -106,4 +109,8 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
