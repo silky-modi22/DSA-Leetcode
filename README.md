@@ -83,6 +83,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +119,12 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
