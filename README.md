@@ -122,9 +122,11 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
