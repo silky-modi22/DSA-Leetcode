@@ -35,6 +35,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0136-single-number) |
+| [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -138,4 +139,20 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
