@@ -66,6 +66,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
@@ -168,4 +169,8 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0937-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
