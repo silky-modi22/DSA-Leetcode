@@ -69,6 +69,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+| [1078-remove-outermost-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0735-asteroid-collision](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
