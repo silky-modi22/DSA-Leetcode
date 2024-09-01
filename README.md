@@ -68,12 +68,14 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0014-longest-common-prefix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
