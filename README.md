@@ -66,6 +66,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -75,6 +76,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -133,6 +135,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
