@@ -9,10 +9,10 @@ public:
         unordered_map<char,vector<int>> map2;
 
         // map the each character of both the string 
-        for(int i=0;i<size1;i++)
+        for(int i=0;i<size1;i++){
         map1[s[i]].push_back(i);
-        for(int j=0;j<size2;j++)
-        map2[t[j]].push_back(j);
+        map2[t[i]].push_back(i);
+        }
      // compare each charcter of both the string
         for(int i=0;i<size1;i++){ 
             if(map1[s[i]] != map2[t[i]])
