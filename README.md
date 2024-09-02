@@ -74,6 +74,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0937-online-stock-span](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/silky-modi22/DSA-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
