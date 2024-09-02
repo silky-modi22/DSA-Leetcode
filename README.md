@@ -100,6 +100,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0050-powx-n](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
