@@ -106,6 +106,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -180,6 +182,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
