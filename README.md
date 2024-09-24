@@ -39,6 +39,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0217-contains-duplicate](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -51,6 +52,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0205-isomorphic-strings](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -95,6 +98,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0217-contains-duplicate](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -155,6 +159,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -163,6 +168,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
