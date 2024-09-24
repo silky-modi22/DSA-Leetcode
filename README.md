@@ -30,6 +30,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
@@ -62,6 +63,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String
