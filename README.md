@@ -36,6 +36,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,6 +70,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0026-remove-duplicates-from-sorted-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -160,6 +162,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0013-roman-to-integer](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/silky-modi22/DSA-Leetcode/tree/master/2050-count-good-numbers) |
