@@ -36,6 +36,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -52,6 +53,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Matrix
