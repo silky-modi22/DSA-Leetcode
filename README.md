@@ -32,6 +32,7 @@ Here I provide the solution of Striver's AtoZ sheet
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
@@ -65,6 +66,7 @@ Here I provide the solution of Striver's AtoZ sheet
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@ Here I provide the solution of Striver's AtoZ sheet
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/silky-modi22/DSA-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
